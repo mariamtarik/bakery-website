@@ -1,0 +1,365 @@
+@media screen and (max-width:575px) {
+    .links {
+        font-size: 10px;
+    }
+    .links li {
+        padding: 0px 7px;
+    }
+    .cover {
+        font-size: 16px;
+    }
+    .home {
+        width: 100%;
+        font-size: 12px;
+    }
+    .home h2 {
+        padding: 10px 0px 0px;
+    }
+    .home p {
+        padding: 10px 0;
+    }
+    .home ul {
+        padding: 0;
+    }
+    .home a {
+        font-size: 18px;
+    }
+    .loc-content {
+        width: 100%;
+        font-size: 12px;
+        margin: 0;
+    }
+    .number {
+        padding-right: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .number p {
+        padding-right: 0;
+        padding-bottom: 10px;
+        font-size: 17px
+    }
+    .info-content {
+        width: 100%;
+    }
+    .contents {
+        line-height: 20px;
+        padding: 0;
+    }
+    .info-content p {
+        padding-top: 10px;
+        font-size: 17px;
+    }
+    .info-content ul {
+        font-size: 16px;
+        padding: 10px 0px;
+    }
+    .info-content a {
+        font-size: 18px;
+    }
+    .details {
+        padding-top: 30px;
+    }
+    .detail {
+        width: 100%;
+    }
+    .detail h3 {
+        padding: 10px 0px 10px;
+    }
+    .detail ul {
+        padding: 0px 0px 10px;
+    }
+    .end {
+        padding: 40px 0px;
+    }
+    .end p {
+        font-size: 16px;
+    }
+    .container-icon a {
+        font-size: 20px;
+        padding-left: 5px;
+    }
+    .end img {
+        width: 50%;
+    }
+    .container-icon {
+        padding-top: 0px;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+    .header {
+        height: 100vh;
+    }
+    .links {
+        font-size: 13px;
+    }
+    .links li {
+        padding: 0px 7px;
+    }
+    .cover {
+        font-size: 16px;
+    }
+    .home {
+        width: 100%;
+        font-size: 14px;
+    }
+    .home h2 {
+        padding: 10px 0px 0px;
+    }
+    .home p {
+        padding: 10px 0;
+    }
+    .home ul {
+        padding: 0;
+    }
+    .home a {
+        font-size: 20px;
+    }
+    .loc-content {
+        width: 100%;
+        font-size: 14px;
+        margin: 0;
+    }
+    .number {
+        padding-right: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .number p {
+        padding-right: 0;
+        padding-bottom: 10px;
+        font-size: 20px
+    }
+    .info-content {
+        width: 100%;
+    }
+    .contents {
+        line-height: 20px;
+        padding: 0;
+    }
+    .info-content p {
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .info-content ul {
+        font-size: 18px;
+        padding: 10px 0px;
+    }
+    .info-content a {
+        font-size: 20px;
+    }
+    .details {
+        padding-top: 30px;
+    }
+    .detail {
+        width: 100%;
+    }
+    .detail h3 {
+        padding: 10px 0px 10px;
+    }
+    .detail ul {
+        padding: 0px 0px 10px;
+    }
+    .end {
+        padding: 40px 0px;
+    }
+    .end p {
+        font-size: 18px;
+    }
+    .container-icon a {
+        font-size: 22px;
+        padding-left: 5px;
+    }
+    .end img {
+        width: 50%;
+    }
+    .container-icon {
+        padding-top: 0px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .header {
+        height: 100vh;
+    }
+    .links {
+        font-size: 16px;
+    }
+    .cover {
+        margin-top: 70px;
+        font-size: 16px;
+    }
+    .home {
+        width: 50%;
+        font-size: 14px;
+    }
+    .home h2 {
+        padding-left: 15px;
+        padding-top: 0px;
+    }
+    .home p {
+        padding: 10px 15px;
+    }
+    .home ul {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+    .home a {
+        font-size: 15px;
+    }
+    .loc-content {
+        width: 50%;
+        font-size: 14px;
+        margin: 0;
+    }
+    .number {
+        padding-right: 15px;
+        width: 33.333%;
+    }
+    .number p {
+        padding-right: 15px;
+        padding-bottom: 10px;
+        font-size: 18px
+    }
+    .info-content {
+        width: 50%;
+    }
+    .contents {
+        line-height: 20px;
+        padding: 0;
+    }
+    .info-content p {
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .info-content ul {
+        font-size: 18px;
+        padding: 10px 0px;
+    }
+    .info-content a {
+        font-size: 20px;
+    }
+    .details {
+        padding-top: 30px;
+    }
+    .detail {
+        width: 50%;
+    }
+    .detail h3 {
+        padding: 10px 0px 10px;
+    }
+    .detail ul {
+        padding: 0px 0px 10px;
+    }
+    .end {
+        padding: 40px 0px;
+    }
+    .end p {
+        font-size: 18px;
+    }
+    .container-icon a {
+        font-size: 22px;
+        padding-left: 5px;
+    }
+    .end img {
+        width: 50%;
+    }
+    .container-icon {
+        padding-top: 0px;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1200px) {
+    .header {
+        height: 100vh;
+    }
+    .links {
+        font-size: 20px;
+    }
+    .cover {
+        margin-top: 150px;
+        font-size: 18px;
+    }
+    .home {
+        width: 50%;
+        font-size: 17px;
+    }
+    .home h2 {
+        padding: 10px 20px 0px;
+        font-size: 25px;
+    }
+    .home p {
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    .home ul {
+        font-size: 20px;
+        padding-left: 20px;
+    }
+    .home a {
+        font-size: 25px;
+    }
+    .loc-content {
+        width: 50%;
+        font-size: 20px;
+        margin: 0;
+    }
+    .number {
+        width: 33.333%;
+        text-align: center;
+        padding-right: 25px;
+    }
+    .number p {
+        padding: 0px;
+        text-align: center;
+        padding-bottom: 10px;
+        font-size: 20px
+    }
+    .info-content {
+        width: 50%;
+    }
+    .contents {
+        line-height: 20px;
+        padding: 0;
+    }
+    .info-content p {
+        padding-top: 10px;
+        font-size: 20px;
+    }
+    .info-content ul {
+        font-size: 20px;
+        padding: 10px 0px;
+    }
+    .info-content a {
+        font-size: 23px;
+    }
+    .details {
+        padding-top: 30px;
+    }
+    .detail h3 {
+        padding: 10px 0px 10px;
+    }
+    .detail ul {
+        padding-bottom: 10px;
+    }
+    .end {
+        padding: 40px 0px;
+    }
+    .end p {
+        font-size: 20px;
+    }
+    .container-icon a {
+        font-size: 22px;
+        padding-left: 5px;
+    }
+    .end img {
+        width: 50%;
+    }
+    .container-icon {
+        padding-top: 0px;
+    }
+    .detail {
+        width: 50%;
+    }
+}
